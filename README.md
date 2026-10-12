@@ -43,6 +43,8 @@ A proposta é transformar dados em informações úteis para apoiar decisões re
 5. **Interpretação:** avaliação dos resultados e elaboração de recomendações.
 
 
+## Visualização
+<img width="896" height="536" alt="image" src="https://github.com/user-attachments/assets/b89bcc51-a395-4c93-97d8-9d3c743cb8a4" />
 
 
 
