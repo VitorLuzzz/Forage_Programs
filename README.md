@@ -52,6 +52,7 @@ A proposta é transformar dados em informações úteis para apoiar decisões re
 
 - Python 3.x
 - Git (opcional, para clonar o repositório)
+- Power BI
 
 
 
